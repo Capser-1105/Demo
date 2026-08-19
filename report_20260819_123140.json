@@ -1,0 +1,79 @@
+{
+  "mode": "MANUAL",
+  "duration": "2026-08-19 12:31:40",
+  "initial_balance": 50000000.0,
+  "final_balance": 50583950.0,
+  "total_profit": 583950.0,
+  "total_roi": 1.1679,
+  "total_bets": 194,
+  "total_skip": 244,
+  "win_rate": 53.1,
+  "kpi_hits": 0,
+  "locked_profit": 0.0,
+  "max_drawdown": 5.3,
+  "tier_performance": {},
+  "hourly_breakdown": {
+    "3": {
+      "wins": 0,
+      "losses": 1,
+      "wr": 0.0
+    },
+    "4": {
+      "wins": 17,
+      "losses": 13,
+      "wr": 56.7
+    },
+    "5": {
+      "wins": 17,
+      "losses": 17,
+      "wr": 50.0
+    },
+    "6": {
+      "wins": 4,
+      "losses": 5,
+      "wr": 44.4
+    },
+    "7": {
+      "wins": 12,
+      "losses": 15,
+      "wr": 44.4
+    },
+    "8": {
+      "wins": 2,
+      "losses": 5,
+      "wr": 28.6
+    },
+    "10": {
+      "wins": 14,
+      "losses": 11,
+      "wr": 56.0
+    },
+    "11": {
+      "wins": 31,
+      "losses": 15,
+      "wr": 67.4
+    },
+    "12": {
+      "wins": 6,
+      "losses": 9,
+      "wr": 40.0
+    }
+  },
+  "regime_breakdown": {
+    "CHOPPY (RAC)": {
+      "wins": 55,
+      "losses": 50,
+      "wr": 52.4
+    },
+    "ALTERNATING (NHAY)": {
+      "wins": 21,
+      "losses": 21,
+      "wr": 50.0
+    },
+    "CLUSTERING (BET)": {
+      "wins": 27,
+      "losses": 20,
+      "wr": 57.4
+    }
+  }
+}
